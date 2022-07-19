@@ -1,4 +1,4 @@
-# Image_Captioning
+# Image-Captioning
 
 Designed a CNN-LSTM based architecture for Image labelling.
 
